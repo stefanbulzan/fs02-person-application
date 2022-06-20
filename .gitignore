@@ -1,0 +1,3 @@
+# Project exclude paths
+/person-application-api-model/target/
+/person-service-client-resttemplate/target/
